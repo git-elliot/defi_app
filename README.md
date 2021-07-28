@@ -1,4 +1,4 @@
-# defi_app
+# Dapp Token Farm
 
 Liquidity mining app where investors can stake one cryptocurrency to yield another one.
 
